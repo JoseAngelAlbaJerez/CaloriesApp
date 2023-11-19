@@ -2,7 +2,8 @@
 
 ## Overview
 
-![Calorie Counter Image](path/to/your/image.png)
+![Calorie Counter Image](assets/Home.jpg)
+![Calorie Counter Image](assets/add.jpg)
 
 Welcome to the Calorie Counter project! This mobile application, built with React Native and Expo, helps users keep track of their daily caloric intake, promoting a healthier lifestyle. Whether you're looking to lose weight, maintain a balanced diet, or simply stay mindful of your nutrition, this tool is designed to assist you.
 
