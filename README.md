@@ -23,27 +23,27 @@ Welcome to the Calorie Counter project! This mobile application, built with Reac
 - Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 ### Install Expo CLI globally:
-
+```
 bash
 npm install -g expo-cli
-
+```
 1. Clone the repository:
-bash
+``` bash
 git clone https://github.com/JoseAngelAlbaJerez/CaloriesApp.git
-
+```
 2. Navigate to the project directory:
-bash
+``` bash
 cd calorie-counter
-
+```
 3. Install dependencies:
-bash
+``` bash
 npm install
-
+```
 #   Usage
 1. Start the Expo development server:
-bash
+``` bash
 expo start
-
+```
 2. Open your Expo client app on your mobile device and scan the QR code displayed in the terminal.
 
 # Contributing
