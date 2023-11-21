@@ -29,7 +29,7 @@ npm install -g expo-cli
 
 1. Clone the repository:
 bash
-git clone https://github.com/yourusername/calorie-counter.git
+git clone https://github.com/JoseAngelAlbaJerez/CaloriesApp.git
 
 2. Navigate to the project directory:
 bash
